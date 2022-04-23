@@ -1,6 +1,6 @@
 {
 	"$schema": "schema/dialog.schema.json",
-	"text": "...",
+	"ext": "...",
 	"choices": [
 		{
 			"text": "Out of the way!",
